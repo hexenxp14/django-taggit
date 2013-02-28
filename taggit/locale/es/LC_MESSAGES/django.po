@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: django-taggit\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-09-07 09:45-0700\n"
-"PO-Revision-Date: 2013-02-11 19:33-0600\n"
+"PO-Revision-Date: 2013-02-27 18:08-0600\n"
 "Last-Translator: David Loaiza M. <david@zooluciones.com>\n"
 "Language-Team: es <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -27,7 +27,7 @@ msgstr "Etiquetas"
 
 #: managers.py:84
 msgid "A comma-separated list of tags."
-msgstr "Un lista separada por comas de las etiquetas."
+msgstr "Una lista separada por comas de las etiquetas."
 
 #: models.py:10
 msgid "Name"
